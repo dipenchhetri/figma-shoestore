@@ -56,6 +56,6 @@ This Figma community file presents a comprehensive UI design for a shoe store ap
 
 For a detailed view of all the components and screens, check out the design file on Figma:
 
--[View the Shoe Store UI Design on Figma](https://www.figma.com/community/file/1373911621515633358/shoe-store)
--[View the Shoe Store website high fidelity on Figma](https://www.figma.com/proto/X7SOFV2eYfWTxzpwBUrucx/project%2Fteam?node-id=1-912&t=yTvbYnZYqTSkly2l-0&scaling=min-zoom&page-id=0%3A1)
-[View the Shoe Store website low fidelity wireframe on Figma](https://www.figma.com/proto/X7SOFV2eYfWTxzpwBUrucx/project%2Fteam?node-id=2-4&t=yTvbYnZYqTSkly2l-0&scaling=min-zoom&page-id=0%3A1)
+** [View the Shoe Store UI Design on Figma](https://www.figma.com/community/file/1373911621515633358/shoe-store)
+** [View the Shoe Store website high fidelity on Figma](https://www.figma.com/proto/X7SOFV2eYfWTxzpwBUrucx/project%2Fteam?node-id=1-912&t=yTvbYnZYqTSkly2l-0&scaling=min-zoom&page-id=0%3A1)
+** [View the Shoe Store website low fidelity wireframe on Figma](https://www.figma.com/proto/X7SOFV2eYfWTxzpwBUrucx/project%2Fteam?node-id=2-4&t=yTvbYnZYqTSkly2l-0&scaling=min-zoom&page-id=0%3A1)
