@@ -54,14 +54,6 @@ This Figma community file presents a comprehensive UI design for a shoe store ap
 - Explore the design to understand the layout and components
 - Use it as a reference for creating similar e-commerce platforms
 
-## Screenshots
-
-![Home Page](https://via.placeholder.com/150)
-![Product Listings](https://via.placeholder.com/150)
-![Product Details](https://via.placeholder.com/150)
-![Shopping Cart](https://via.placeholder.com/150)
-![User Profile](https://via.placeholder.com/150)
-
 For a detailed view of all the components and screens, check out the design file on Figma:
 
 [View the Shoe Store UI Design on Figma](https://www.figma.com/community/file/1373911621515633358/shoe-store)
